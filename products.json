@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "untitled-3",
+      "title": "Untitled #3",
+      "year": 2025,
+      "medium": "Oil on Heavy Cotton Canvas",
+      "size": "72\u00d760\u00d72 in",
+      "priceUSD": 4000,
+      "status": "available",
+      "image": "assets/placeholder.jpg",
+      "gallery": [
+        "assets/placeholder.jpg"
+      ],
+      "description": "Large-scale oil on heavy cotton canvas. Museum-quality materials and scale for expansive spaces.",
+      "shipping": "Crated & shipped via fine art freight. US est. $400\u2013$600; international quoted.",
+      "inquiryEmail": "blueartjohnny@gmail.com",
+      "paypal": "https://www.paypal.me/blueartjohnny?locale.x=en_US"
+    }
+  ]
+}
